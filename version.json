@@ -1,10 +1,7 @@
 {
-    "fileSize":  "83.28 MB",
-    "releasedAt":  "2026-11-13T07:49:00.4236694Z",
+    "releaseDate":  "2026-11-13",
     "name":  "MD Veo3 AFF V1",
-    "downloadUrl":  "https://github.com/Namhi86/md-veo3-aff-releases/releases/download/v1.0.1/MD_Veo3_AFF_V1.0.1_Setup.exe",
-    "version":  "1.0.1",
-    "displayVersion":  "MD Veo3 AFF V1.0.1",
-    "notes":  "Phiên bản MD Veo3 AFF V1.0.1: Giao diện chỉ nhập duy nhất Gmail (xóa hoàn toàn khung Mã Phiên \u0026 Mã Chiến Dịch), sửa dứt điểm lỗi tự đóng cửa sổ đăng nhập Gmail và lỗi chữ ký số Ed25519 trên Google Flow.",
-    "tag":  "v1.0.1"
+    "version":  "1.0.2",
+    "downloadUrl":  "https://github.com/Namhi86/md-veo3-aff-releases/releases/download/v1.0.2/MD_Veo3_AFF_V1.0.2_Setup.exe",
+    "notes":  "Giao diện tối giản chỉ nhập Gmail trên cả EXE và Google Flow, làm sạch 100% dữ liệu mẫu."
 }
